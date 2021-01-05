@@ -3,5 +3,7 @@ Esta es una página web estática
 
 ## Carpetas
 - Archivo Index
+- Archivo readme
+- Archivo debug
 - Carpeta css
 - Carpeta img
