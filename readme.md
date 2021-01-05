@@ -9,3 +9,4 @@ Esta es una página web estática
 - Carpeta img
 
 ## Otros archivos extras
+- Archivo para la base de datos
