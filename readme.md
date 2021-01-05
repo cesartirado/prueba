@@ -7,3 +7,5 @@ Esta es una página web estática
 - Archivo debug
 - Carpeta css
 - Carpeta img
+
+## Otros archivos extras
